@@ -1,3 +1,7 @@
+git config --global user.email "peppywolf.ym@gmail.com"
+git config --global user.name "YasirBinMudassir"
+
+
 Attribution 4.0 International
 
 =======================================================================
